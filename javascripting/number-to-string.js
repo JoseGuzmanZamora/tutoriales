@@ -1,0 +1,4 @@
+//DESARROLLADO POR JOSÉ ALEJANDRO GUZMÁN ZAMORA!!!!!! ;) 
+
+var n = 98709870987098709870987;
+console.log(n.toString());
